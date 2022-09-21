@@ -1,3 +1,3 @@
 # Operating-System
 
-An assigments in Operating system course
+An assignment in Operating system course
