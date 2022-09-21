@@ -1,9 +1,7 @@
 # Assignment4OS
 Server stack
 
-Name: David Ehevich
-
-Name: Liel Zilberman
+Name: Adnan Azem
 
 *Sources :
 
